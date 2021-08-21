@@ -3,8 +3,8 @@ package cookie_exporter
 import (
 	"database/sql"
 	"fmt"
-	"github.com/tlopo-go/cookie-exporter/decrypter"
-	"github.com/tlopo-go/cookie-exporter/fileutils"
+	"github.com/tlopo-go/cookie_exporter/decrypter"
+	"github.com/tlopo-go/cookie_exporter/fileutils"
 	_ "github.com/mattn/go-sqlite3"
 	"io/ioutil"
 	"net/http"

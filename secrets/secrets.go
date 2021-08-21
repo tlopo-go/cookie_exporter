@@ -3,7 +3,7 @@ package secrets
 import (
 	"errors"
 	"fmt"
-	"github.com/tlopo-go/cookie-exporter/cmd"
+	"github.com/tlopo-go/cookie_exporter/cmd"
 	"regexp"
 	"strings"
 )

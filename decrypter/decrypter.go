@@ -5,7 +5,7 @@ import (
 	"crypto/cipher"
 	"crypto/sha1"
 	"fmt"
-	"github.com/tlopo-go/cookie-exporter/secrets"
+	"github.com/tlopo-go/cookie_exporter/secrets"
 	"golang.org/x/crypto/pbkdf2"
 	"strings"
 )

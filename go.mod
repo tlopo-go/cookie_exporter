@@ -1,4 +1,4 @@
-module github.com/tlopo-go/cookie-exporter
+module github.com/tlopo-go/cookie_exporter
 
 go 1.16
 
