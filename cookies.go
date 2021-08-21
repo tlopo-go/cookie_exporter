@@ -1,4 +1,4 @@
-package cookies
+package cookie_exporter
 
 import (
 	"database/sql"
